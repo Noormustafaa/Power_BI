@@ -1,0 +1,307 @@
+Power Bi Notes:
+
+What is Power BI?
+
+Defination:Power BI is a Business Intelligence (BI) and Data Visualization tool developed by Microsoft.
+
+Power BI helps us convert raw data into charts, graphs, dashboards, and reports so that people can easily understand the data and make better decisions.
+
+Imagine you have an Excel file containing 100,000 rows of sales data. Reading all those rows is difficult. Power BI can transform that data into
+Bar Charts
+Pie Charts
+Line Graphs
+Maps
+Interactive Dashboards
+Business Reports
+
+so that anyone can understand the information in seconds.
+
+
+Why Do We Use Power BI?
+
+Suppose a company sells products in different cities.
+
+Raw Data
+City	Sales
+Karachi	50000
+Lahore	70000
+Islamabad 30000
+
+Looking at this table gives some information.
+
+But Power BI can create a chart showing:
+
+ Lahore = Highest Sales
+
+ Islamabad = Lowest Sales
+
+This makes analysis much faster.
+
+
+
+
+--Real-Life Example
+
+Imagine you own a café.
+
+Every day you record:
+
+Customer Name
+Item Ordered
+Quantity
+Price
+Date
+
+
+After one year, you may have thousands of records.
+
+Questions like:
+
+Which item sells the most?
+Which month had the highest sales?
+Which day is busiest?
+What is total revenue?
+
+are difficult to answer manually.
+
+Power BI can create a dashboard that shows all these answers instantly.
+
+
+Main Features of Power BI.
+1. Data Visualization
+
+  Creates beautiful charts.
+
+Examples:
+
+Bar Chart
+Pie Chart
+Line Chart
+Area Chart
+Map Visualization
+
+Example:
+
+Monthly Sales:
+
+Month	Sales
+Jan	50k
+Feb	70k
+Mar	90k
+
+Power BI can create a line graph showing sales growth. 
+
+
+2. Dashboard Creation
+
+A dashboard combines multiple charts on one screen.
+Example:
+
+A company dashboard may display:
+
+Total Sales
+Total Customers
+Revenue
+Profit
+Top Products
+
+all in one place.
+
+3. Data Cleaning
+Real-world data often contains:
+
+ Missing values
+
+ Duplicate records
+
+ Wrong formats
+
+Power BI's Power Query tool helps clean data before analysis.
+
+Example:
+
+Karachi
+karachi
+KARACHI
+
+can be standardized into:
+
+Karachi.
+
+
+Major Point!
+
+4. Connect Multiple Data Sources
+
+Power BI can connect to:
+
+Excel
+CSV
+SQL Databases
+MySQL
+PostgreSQL
+Oracle
+APIs
+Cloud Services
+
+This is why companies use it extensively.
+
+What is DAX?
+
+Power BI uses a formula language called DAX (Data Analysis Expressions).
+
+Example:
+
+Total Sales:
+
+Total Sales = SUM(Sales[Amount])
+
+Average Sales:
+
+Average Sales = AVERAGE(Sales[Amount])
+
+DAX is similar to Excel formulas but more powerful.
+
+
+Most Important Point !
+
+How Power BI Helps a Data Scientist
+
+Many beginners think:
+
+"Data Scientists only use Python."
+
+This is not true.
+
+A Data Scientist often spends a lot of time:
+
+Understanding data
+Cleaning data
+Finding patterns
+Presenting results
+
+Power BI helps with these tasks.
+
+Example 1: Machine Learning Project.
+
+Suppose you build a model predicting house prices.
+
+Python predicts:
+
+House	Actual Price	Predicted Price
+H1	10M	9.8M
+H2	15M	14.9M
+
+
+Power BI can show:
+
+Prediction Charts
+Error Analysis
+Regional Trends
+Price Distribution
+
+making results easier to explain to managers.
+
+
+Data Scientist Workflow
+
+A typical Data Scientist workflow:
+
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Analysis
+      ↓
+Machine Learning
+      ↓
+Visualization
+      ↓
+Business Decision
+
+
+
+--Power BI is mainly used in:
+
+ Data Analysis
+
+ Visualization
+
+ Reporting
+
+ Business Decision Making
+
+
+
+
+| Task               | Python  | Power BI    |
+| ------------------ | ------- | ----------- |
+| Machine Learning   | ✅       | ❌           |
+| Deep Learning      | ✅       | ❌           |
+| Data Visualization | ✅       | ✅           |
+| Dashboards         | Limited | ✅ Excellent |
+| Reporting          | Limited | ✅ Excellent |
+| Business Analytics | Good    | Excellent   |
+
+
+Best Practice
+
+Most Data Scientists use:
+
+Python + SQL + Power BI
+
+This combination is highly valuable in industry.
+
+
+Industry Use Cases
+
+Companies use Power BI for:
+
+Sales Analysis
+Customer Analysis
+Marketing Analytics
+Financial Reports
+Inventory Tracking
+Healthcare Analytics
+HR Analytics
+IoT Dashboards
+
+
+
+Why Should You Learn Power BI?
+
+learning Power BI can help you:
+
+Create professional dashboards for projects.
+Showcase insights visually during interviews.
+Add a valuable skill to your resume.
+Stand out from candidates who only know Python.
+Present your Water Quality Detection project professionally.
+
+Excel
+   ↓
+SQL
+   ↓
+Python
+   ↓
+Power BI
+   ↓
+Machine Learning
+
+
+For a Data Science career, Power BI is one of the most useful tools for turning data into understandable business insights, while Python is used for analysis and machine learning. Together, they make a very strong skill set.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
