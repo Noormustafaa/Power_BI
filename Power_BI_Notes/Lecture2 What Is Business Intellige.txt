@@ -1,0 +1,28 @@
+Lecture2: What Is Business Intelligence (BI)?
+It Is Also called BI !
+means such intelligence which involves in industries Or Enterprises company's.
+to Take Decisions. for them but based on Data .
+
+What Is Data Driven Decision Making? 
+Note: Data Driven Decision Making Is Known As Data Science. 
+   And If That Data Driven Decision Making  We will implement on Business then we called BI(Business intelligent ).
+
+Business Analysis: Whatever you have Data Like Sales , Purchase , investment , profit , so whatever we have 
+	           you have done in your business and on the basis of that data When You predict the Feature Or
+		   You are going to take business Decision. That is Actual Called Business analysis. 
+
+                  So Power BI is the just Tool Which is used For the business Analysis. 
+
+ Tools and Processes: BI tools access and analyze data sets and present analytical findings in reports, summaries, dashboards, graphs, charts, and maps to provide users with detailed intelligence about the state of the business.
+
+
+
+
+
+ Why is Power BI Important for Business Intelligence?
+
+--Integration and Accessibility: Power BI integrates well with existing applications, allowing for the automatic extraction and interpretation of data. This ease of use extends its accessibility, allowing non-technical users to generate reports and insights.
+
+Real-Time Processing: Power BI dashboards provide a real-time view of the business with the capability to update automatically as [data] refreshes. This means decisions can be [made] promptly based on the latest data availa[ble].
+
+
