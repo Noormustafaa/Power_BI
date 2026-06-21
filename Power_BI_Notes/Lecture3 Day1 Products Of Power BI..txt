@@ -1,0 +1,54 @@
+Lecture3: Products Of Power BI.
+
+Microsoft Power Bi Ecosystem.
+What does the word "Ecosystem" mean?
+In nature, an ecosystem is a place where different living things (plants, animals) and non-living things (sun, water) work together to survive.
+
+In tech, an Ecosystem means a collection of different applications, apps, and platforms that connect and work together seamlessly to solve a bigger problem. None of these tools work completely alone; they rely on each other to finish a complete task. 
+
+Real-World Example: The Apple Ecosystem
+Think about Apple. You take a photo on your iPhone, it automatically updates on your MacBook, you can view a notification about it on your Apple Watch, and you buy apps for all of them from the App Store.
+
+iPhones, Macs, and Apple Watches are different products, but together they form one Ecosystem where data flows effortlessly.
+
+-->Explaining the Power BI Ecosystem Products.
+
+Power BI works exactly like that. It has 5 main parts shown in  that pass data to one another. Here is what they mean:
+
+1. Power BI Desktop (The Kitchen/Workshop)
+What it is: This is a free software you download on your computer. It is where you do all the hard work: clean messy data, connect databases, and design the actual charts and graphs.
+
+Simple Example: Imagine you own a supermarket chain. You download Power BI Desktop on your laptop, load your raw Excel sheets of sales into it, clean up the formatting, and create a beautiful dashboard with interactive charts.
+
+2:Power BI Service (The Cloud Showroom)
+What it is: This is a website (Cloud-based platform). Once you create your dashboard in Power BI Desktop, you click "Publish" to upload it here so others can see it online. It handles automatic data refreshing.
+
+Simple Example: You cannot send a heavy desktop file to your CEO. Instead, you upload it to Power BI Service. Now, the CEO can just log into a web link from anywhere in the world and look at the live store dashboards.
+
+3. Power BI Mobile (The Pocket View)
+What it is: A secure app for your smartphone (iOS or Android) used strictly to view reports on the go.
+
+Simple Example: While traveling, your supermarket manager wants to check today's live sales. Instead of opening a laptop, they open the Power BI Mobile app on their phone to quickly view the dashboard formatted perfectly for a mobile screen.
+
+
+4. Power BI Report Server (The Private Vault)
+What it is: An on-premise server. Some companies (like banks or hospitals) have strict laws where their data cannot leave their physical building or go onto the public cloud internet. This tool allows them to host dashboards safely on their own local computers inside the company.
+
+Simple Example: If a highly secure military organization or hospital uses Power BI, they won't upload reports to the online Power BI Service. They will use Power BI Report Server to keep everything saved on physical server machines locked inside their own building.
+
+
+5. Power BI Embedded (The Hidden Feature)
+What it is: A tool meant for developers that allows them to plug a Power BI chart directly inside another custom website or app without making the user log into Power BI.
+
+Simple Example: Imagine you are building a custom mobile banking app for your customers. You want to show them a nice pie chart of their monthly expenses. Instead of coding a chart from scratch, you use Power BI Embedded to inject a Power BI graph right inside your bank's own mobile app.
+
+
+Summary of how they link together:
+You clean and create a report on Power BI Desktop, upload it to the cloud via Power BI Service, view it on the go using Power BI Mobile, lock it up internally via Report Server, or inject it into your website using Embedded. Together, they form the complete Power BI platform.
+
+
+
+
+
+
+
