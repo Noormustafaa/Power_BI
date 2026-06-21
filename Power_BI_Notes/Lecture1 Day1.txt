@@ -1,0 +1,25 @@
+Lecture1: Day1
+ The Power_BI and Tableau.
+Both Tools Are The Most important Tools For the Data Visualization !
+
+To Be A Data Analyst or Data Scientist.
+most people worrying about that which tools we have to learn and why ?
+
+1st Tool is Called --> Power_BI
+2nd Tool is Called --> Tableau.
+3rd Tool is Called --> Python.
+
+Note Power BI and Tableau is based on Drag and Drop mostly.
+Note1: and In Python we do coding and in python we can handle huge amount of data Easily.
+
+Step1: Install Power_BI
+Step2: Click on Options and Setting and then Again Click on Options
+Step3: Click on the Preview Features.  it provide those feature which are still not Release. or they will release
+       in Feature.
+Step4: So just click those Features Which You need . 
+       Like Click on Shape map Visual  and when you click on learn more then it will tell you 
+	For what it is being used . and same way you can click on other options you needed.
+	Like Q/A option or Connect to External , modern visual Tool and on object interaction and STore Semantic        	model  and some others if you needed .
+Step5: Then Click on Ok and Restart You Application.
+
+	
