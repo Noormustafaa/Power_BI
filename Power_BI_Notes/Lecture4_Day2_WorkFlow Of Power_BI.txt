@@ -1,0 +1,33 @@
+Workflow Of PowerBI
+
+ 1. Connect Your Data (Data Source)
+Definition:Alag-alag jagahon se raw data ko Power BI ke andar lekar aana (import karna).
+* Example: Ek retail store ka data unke Excel sheets, SQL database, aur website ke Google Analytics se Power BI me connect karna.
+
+### 2. Transform Data (Data Cleaning / Power Query)
+
+Definition: Raw data me se kharabiyan khatam karna, missing values bharna, aur use use karne ke kabil banana.
+Example:Data me se duplicate customer IDs ko delete karna aur "Null" values ki jagah 0 likhna.
+
+ 3. Model Data (Data Modeling / Relationships)
+
+Definition:** Alag-alag tables ko aapas me jodna (relationship banana) aur DAX formulas use karke naye business metrics calculate karna.
+Example:** `Customers Table` aur `Sales Table` ko "Customer ID" ke zariye aapas me connect karna taake pata chal sake kis customer ne kitni kharidari ki.
+
+ 4. Create Visualization (Design Charts)
+
+Definition:** Cleaned aur modeled data ko dekh kar use graphs, charts, aur maps ki shakal me badalna.
+Example:** Pichle 5 saal ki sales ko dikhane ke liye ek "Line Chart" banana aur har city ki sales ke liye "Bar Chart" use karna.
+
+ 5. Create Reports (Combine Visuals)
+ Definition:** Boht saare charts aur filters ko ek sath ek hi page (ya multiple pages) par set karke ek complete interactive dashboard banana.
+* **Example:** Ek "Sales Report Dashboard" banana jisme top par profit dikhe, neeche charts hon, aur side me "Year" select karne ka filter (Slicer) ho.
+
+### 6. Publish Reports to Power BI Service (Cloud Upload)
+
+* **Definition:** Apne computer (Power BI Desktop) par bani hui report ko Microsoft ke secure cloud (Power BI Service) par upload karna taake company ke log use online dekh sakein.
+Example:** Apni banayi hui sales report ko cloud par upload karna taake use mobile phone ya web browser par chalaya ja sake.
+
+ 7. Distribute Reports (Share with Stakeholders)
+Definition:** Cloud par upload ki hui report ka access ya automatic email subscription manager aur stakeholders ko dena taake wo faisle le sakein.
+* **Example:** Report ka link company ke CEO aur Managers ke sath share karna taake wo roz subah automatic updated sales dekh sakein.
